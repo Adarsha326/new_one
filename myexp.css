@@ -1,0 +1,54 @@
+table{
+    /* box-shadow: inset; */
+    border: 4px  blueviolet;
+    border-style: groove;
+    width: 100%;
+    height: 60px;
+    background-color: lawngreen;
+}
+th,td{
+    align-items: center;
+    align-content: center;
+    border-style: double;
+    border-color: brown;
+    /* border-radius: 30px; */
+}
+#from_class3practice{
+    width: 50%;
+    height: 200px;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(206, 82, 82);
+}
+#from_class3practice_h2{
+    text-align: center;
+    background-color: aqua;
+}
+body{
+    background-color: rgb(126, 105, 105);
+}
+h1{
+    background-color: blueviolet;
+}
+h2{
+    background-color: aquamarine;
+}
+#div1{
+    width: 100%;
+    background-color: rgb(114, 144, 64);
+}
+/* a{
+    border: 2px solid black;
+} */
+ /* #roll_up_button{
+    align-content: right;
+    align-items: right;
+    background-color: blue;
+    color: blueviolet;
+ } */
+ /* #roll_up_a1{
+    background-color: rgb(195, 43, 187);
+  } */
+  #roll_up_button{
+    margin-left: 50%;
+  }
